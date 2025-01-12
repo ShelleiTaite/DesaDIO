@@ -16,6 +16,6 @@ Tentei gerar no Microsoft Desiger, mas ele não aceita os nomes, pois violam a p
 Então mudei para uma imagem da minha cachorra, Athena, Golden Retriever, que faleceu em 2022. Ela e sua amada bolinha verde, correndo em direção ao mar, pois éramos 
 doidos para levá-la à praia. Jogamos suas cinzar no mar. 
 ## 🚀 Resultados
-![image](https://github.com/user-attachments/assets/48c4b2a8-f644-4248-8ee0-8367c86194d9)
+![Desafio](https://github.com/user-attachments/assets/2c9b5976-5369-4fcd-9818-3c5512774ff4)
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
